@@ -1,0 +1,8 @@
+scss
+.DS_Store
+build
+.gitignore
+deploy.sh
+exclude_list.txt
+gitignore-template.txt
+.sass-lint.yml
